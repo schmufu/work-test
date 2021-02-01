@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"floor1.json"
+                 "value":"65_floor1.json"
                 }],
          "tintcolor":"#ff0000",
          "type":"tilelayer",
